@@ -1,0 +1,54 @@
+body {
+  background-color: cadetblue;
+}
+h1 {
+  color: azure;
+  font-family: courier;
+  font-size:40px;
+  text-align:center;
+  border: 5px azure;
+}
+h2 {
+  color: azure;
+  font-family: monospace;
+  font-size:40px;
+  text-align:center;
+  border: 5px azure;
+}
+h3 {
+  color: azure;
+  font-family: courier;
+  font-size:32px;
+  border: 5px azure;
+}
+p {
+  color: darkslategrey;
+  font-family: sans-serif;
+  text-align:center;
+  padding: 20px;
+}
+li {
+  color: darkslategrey;
+  font-family: sans-serif;
+  padding: 20px;
+}
+ul {
+  color: darkslategrey;
+  font-family: sans-serif;
+  padding: 20px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+audio {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
