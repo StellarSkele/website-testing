@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Calendar Test</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <p>
+    <h2>Calendar Test</h2>
+    <h1>I am going to beat the creator of this service with a rock if this does not work</h1>
+      <iframe src="https://embed.styledcalendar.com/#W6gb49XKR61ETxsbHbLq" title="Styled Calendar" class="styled-calendar-container" style="width: 100%; border: none;" data-cy="calendar-embed-iframe"></iframe>
+      <script async type="module" src="https://embed.styledcalendar.com/assets/parent-window.js"></script>
+    </p>
+  </body>
+</html>
